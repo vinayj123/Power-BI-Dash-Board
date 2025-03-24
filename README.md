@@ -26,11 +26,9 @@ This Power BI dashboard analyzes **Amazon Sales Data**, providing insights into:
 3. **Explore Interactive Dashboards & Insights.**  
 
 ## 📸 Dashboard Preview  
-*(Upload a screenshot of your dashboard if possible!)*  
-
----
+![Screenshot 2025-01-27 161327](https://github.com/user-attachments/assets/7ea7ac4e-d275-4f73-804b-a2be199420e0)
 
 ### 📥 **Download & Explore Now!**  
-👉 **GitHub Repo Link**: `[Your GitHub Repo URL]`  
+👉 **GitHub Repo Link**: https://github.com/vinayj123/Power-BI-Dash-Board.git 
 
 🚀 **Hope you find this useful! Feel free to explore and share feedback.**  
